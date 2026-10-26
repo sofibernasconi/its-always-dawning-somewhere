@@ -1,0 +1,6 @@
+__pycache__/
+fax/illustrations/
+fax/phrase_history.json
+fax/climate_cache.json
+fax/dawn_preview.png
+.DS_Store
